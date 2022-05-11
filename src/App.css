@@ -1,0 +1,85 @@
+.App{
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 110%;
+
+}
+.title {
+  font-weight: 400;
+  font-size: 18px;
+  padding: 0px;
+  margin: 6px;
+}
+.currency {
+  margin-top: 10px;
+  display: flex;
+  justify-content: safe center;
+  align-content: center;
+  margin: 0;
+  padding: 10px;
+  font-size: 15px;
+}
+div.currency-left, div.currency-right {
+  width: 100px;
+  text-align: center;
+}
+.select {
+  border-radius: 1px;
+  border: 0px;
+  width: 70px;
+  height: 17.5px;
+  text-align: center;
+  appearance: ;
+  margin-left: 10px;
+}
+.numb1{
+  border-radius: 1px;
+  border: 0px;
+  width: 200px;
+  margin: 10px;
+}
+.butt {
+  border-radius: 2px;
+  color: white;
+  width: 70px;
+  height: 25px;
+  font-size: 12px;
+  background-color: #202020;
+}
+a {
+  text-decoration: none;
+}
+div .result {
+  display: flex;
+  justify-content: safe center;
+  align-content: center;
+  margin: 0;
+  padding: 10px;
+}
+
+div.result-l, div.result-r {
+  width: 130px;
+  text-align: center;
+  display: block;
+
+}
+.val {
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+.Calc button{
+  margin-right: 5px;
+  color: white; 
+  background-color: #202020;
+  border-radius: 2px;
+}
+.reset button {
+  margin: 10px;
+  border-radius: 2px;
+  color: white;
+  width: 70px;
+  height: 25px;
+  font-size: 12px;
+  background-color: #202020;
+}
